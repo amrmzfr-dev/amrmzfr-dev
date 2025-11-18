@@ -73,8 +73,9 @@ I’m Amir, an **IT Engineer and Full-Stack Developer** passionate about IoT sys
 
 ### 📫 Contact Me
 
-- **Email:** amr.mzfr.dev@outlook.com  
-- **Company Website:** [www.c-zero.com](https://www.c-zero.com)  
+- **Email:** amr.mzfr.dev@outlook.com
+- **Company Website:** [www.c-zero.com](https://www.c-zero.com)
+- **Resume:** https://www.canva.com/design/DAGklWFKSu0/i2j7ZY-GFXCDubkawssUPg/edit?utm_content=DAGklWFKSu0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
