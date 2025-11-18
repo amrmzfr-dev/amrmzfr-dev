@@ -32,19 +32,34 @@ I’m Amir, an **IT Engineer and Full-Stack Developer** passionate about IoT sys
 ### 🌱 Key Projects & Deployments
 
 **Telematics System for Ozone Treatment Machines**  
-- Designed and implemented a **full-stack IoT solution** to track machine usage accurately, integrating **ESP32 microcontrollers**, a **Django + SQLite backend**, and a **React.js frontend**.  
-- Centralized machine control so the ESP32 directly starts and tracks the machine, time-stamping individual usage for precise billing and analytics.  
-- Implemented offline data storage with **queue and retry mechanisms**, ensuring no data is lost even if Wi-Fi is unstable.  
-- Deployed the full system to production using **cPanel**, connecting IoT devices, backend, and frontend into a cohesive, reliable platform.  
-- Resulted in **99% reduction in data misalignment**, providing clients with accurate and trustworthy usage reports.  
-- Fully self-taught and executed independently, demonstrating **end-to-end project ownership** from system architecture to deployment.  
+<img src="https://img.shields.io/badge/ESP32-0082C9?style=for-the-badge&logo=arduino&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/> 
+<img src="https://img.shields.io/badge/cPanel-F3A52E?style=for-the-badge&logo=cpanel&logoColor=white" height="25"/>  
+
+- Designed and implemented a full-stack IoT solution to track machine usage accurately.  
+- Centralized machine control so the ESP32 directly starts and tracks the machine, time-stamping individual usage.  
+- Implemented offline data storage with queue and retry mechanisms to prevent data loss.  
+- Deployed the system to production via **cPanel**.  
+- Achieved **99% reduction in data misalignment**.  
+- Fully self-taught and executed independently.  
 
 **EV Charger Installation Mockup**  
-- Built a functional mockup system for **Perodua** EV charger installation tracking using **React.js, Node.js, and Prisma**.  
-- Hosted the backend on **Render.com** for testing purposes, enabling real-time contractor workflow visualization.  
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/Render.com-000000?style=for-the-badge&logo=render&logoColor=white" height="25"/>  
+
+- Built a functional mockup system for Perodua EV charger installation tracking.  
+- Backend hosted on **Render.com** for testing purposes.  
 
 **Company Website**  
-- Developed and deployed the company website [www.c-zero.com](https://www.c-zero.com) using **React.js** and **cPanel**, implementing responsive UI with modern UX practices.  
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/> 
+<img src="https://img.shields.io/badge/cPanel-F3A52E?style=for-the-badge&logo=cpanel&logoColor=white" height="25"/>  
+
+- Developed and deployed the company website [www.c-zero.com](https://www.c-zero.com).  
+- Implemented responsive UI with modern UX practices.  
 
 ---
 
