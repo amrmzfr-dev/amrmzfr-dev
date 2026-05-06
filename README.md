@@ -109,7 +109,7 @@ I'm Amir, an **IT Engineer and Full Stack Developer** at C Zero Sdn Bhd, a Malay
 
 ### 💡 About Me
 
-- BSc Computer Science (Netcentric Computing), UiTM 2024.
+- Bachelor Degree in Computer Science (Netcentric Computing), UiTM Jasin.
 - Comfortable owning systems end to end: architecture → development → deployment → support.
 - Pick up tools that fit the problem — moved from JS/Python to Go and Rust for backend and embedded work.
 - Actively looking for my **first part-time freelance project**: full stack development, IoT systems, or internal tools.
