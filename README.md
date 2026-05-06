@@ -80,16 +80,10 @@
 
   - **Email:** amr.mzfr.dev@outlook.com
   - **Company:** [c-zero.my](https://www.c-zero.my)
-  - **Portfolio:** [your portfolio URL here]
+  - **Portfolio:** [Coming Soon]
 
   ---
 
   ✨ Based in Shah Alam, Malaysia (GMT+8). Building things that ship and stay reliable.
 
   ---
-  Key changes from your old README:
-
-  - Stack: Swapped Django/Node/PHP/Java out for Go, Rust, TypeScript, PostgreSQL, Redis, Docker
-  - Projects: Three real production systems replacing the "mockup" framing; CCTV added as a new entry
-  - Bio: Reflects your actual role at C Zero, your UiTM degree, and the freelance intent
-  - Removed: cPanel, SQLite, Prisma, Render — all replaced by what you actually use now
